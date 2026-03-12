@@ -34,7 +34,7 @@ This project is built using **HTML, CSS, and JavaScript** and provides a clean a
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/Tempreture_Conversion.git
+git clone https://github.com/Sridhar-Sahu-code/Tempreture_Conversion.git
 ```
 
 2. Open the project folder.
